@@ -2,16 +2,16 @@
 
 ! Identification
 
-project folder "/Users/aareed2/projects/Lacuna/BL-Release4.inform"
-release to "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Release"
+project folder "BL-Release4.inform"
+release to "BL-Release4 Materials/Release"
 
 ! Blorb instructions
 
 storyfile leafname "Blue Lacuna.gblorb"
-storyfile "/Users/aareed2/projects/Lacuna/BL-Release4.inform/Build/output.ulx" include
-ifiction "/Users/aareed2/projects/Lacuna/BL-Release4.inform/Metadata.iFiction" include
-cover "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Cover.jpg"
-picture 1 "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Cover.jpg"
+storyfile "BL-Release4.inform/Build/output.ulx" include
+ifiction "BL-Release4.inform/Metadata.iFiction" include
+cover "BL-Release4 Materials/Cover.jpg"
+picture 1 "BL-Release4 Materials/Cover.jpg"
 
 ! Placeholder variables
 
@@ -24,3 +24,4 @@ placeholder [BLURB] = "You have always been different.<br/>One in a trillion hav
 
 ! Other material to release
 
+source public
