@@ -1,0 +1,26 @@
+! Blurb file created by Inform build 5Z71
+
+! Identification
+
+project folder "/Users/aareed2/projects/Lacuna/BL-Release4.inform"
+release to "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Blue Lacuna.gblorb"
+storyfile "/Users/aareed2/projects/Lacuna/BL-Release4.inform/Build/output.ulx" include
+ifiction "/Users/aareed2/projects/Lacuna/BL-Release4.inform/Metadata.iFiction" include
+cover "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Cover.jpg"
+picture 1 "/Users/aareed2/projects/Lacuna/BL-Release4 Materials/Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "3C25ABF2-C0EA-4388-A69D-B38B87577B13"
+placeholder [RELEASE] = "4"
+placeholder [YEAR] = "2009"
+placeholder [TITLE] = "Blue Lacuna"
+placeholder [AUTHOR] = "Aaron A. Reed"
+placeholder [BLURB] = "You have always been different.<br/>One in a trillion have your gift, your curse: to move between worlds, never settling, always alone. To Wayfare. Yet there are others like you, and something stronger than coincidence binds you together, bumps your lives against each other like charged particles.<br/>Now you feel the Call again, and know another of your kind is in need. But when you arrive there are no answers. Just an old man with fraying sanity and a long-buried secret. A tropical paradise more alive than it seems. And a conflict left unresolved that could change the course of two civilizations forever.<br/>There are no easy choices, wayfarer. Your decisions will shape the fate of many things. Three worlds. Two lives. And what your own story will become."
+
+! Other material to release
+

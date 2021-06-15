@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>3C25ABF2-C0EA-4388-A69D-B38B87577B13</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Blue Lacuna</title>
+            <author>Aaron A. Reed</author>
+            <headline>An Interactive Novel In Ten Chapters</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2009</firstpublished>
+            <description>You have always been different.<br/>One in a trillion have your gift, your curse: to move between worlds, never settling, always alone. To Wayfare. Yet there are others like you, and something stronger than coincidence binds you together, bumps your lives against each other like charged particles.<br/>Now you feel the Call again, and know another of your kind is in need. But when you arrive there are no answers. Just an old man with fraying sanity and a long-buried secret. A tropical paradise more alive than it seems. And a conflict left unresolved that could change the course of two civilizations forever.<br/>There are no easy choices, wayfarer. Your decisions will shape the fate of many things. Three worlds. Two lives. And what your own story will become.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <cover>
+            <format>jpg</format>
+            <height>960</height>
+            <width>960</width>
+        </cover>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2010-06-03</releasedate>
+                    <version>4</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>5Z71</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>5Z71</generatorversion>
+            <originated>2010-06-03</originated>
+        </colophon>
+        <glulx>
+            <serial>100603</serial>
+            <release>4</release>
+            <compiler>Inform 7 build 5Z71</compiler>
+            <coverpicture>1</coverpicture>
+        </glulx>
+    </story>
+</ifindex>

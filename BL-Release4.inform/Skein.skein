@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x1a6a4b70" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x1a6a4b70" />
+  <item nodeId="node-0x1a6a4b70">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+Welcome to Blue Lacuna, release 4.
+
+If no words above were blue, press K now.
+
+Press N to begin from the beginning, R to restore an existing story, or C to show the Table of Contents.
+
+
+
+*   *   *   *   *   *   *   *
+
+Prologue
+
+*   *   *   *   *   *   *   *
+
+
+
+Waves.
+
+Dreams move beneath you, blind colossi revolving through unknowable patterns, but they do not break the surface, not yet or any more. You float in void outside them, cold, memoryless.
+
+Not true. You are a Wayfarer, and will always remember that.
+
+But uneasiness rises within you. Lost, for strange moments you can not even remember if you are man or woman.
+
+Tutorial: Type emphasized keywords like MAN or WOMAN to advance the story. Type KEYWORDS if these words do not appear emphasized in the previous paragraph.
+
+
+&gt;</result>
+    <commentary xml:space="preserve">
+
+
+
+
+
+Blue Lacuna
+An Interactive Novel by Aaron A. Reed
+Release 0 / Serial number 080211 / Inform 7 build 5J39 (I6/v6.31 lib 6/11N) SD
+Milestone 5b beta. Type BETA for testing info. http://beta.lacunastory.com/
+
+THIS TESTING BUILD EXPIRES ON FEB. 14, 2008. IF TODAY&apos;S DATE IS LATER, PLEASE CHECK THE WEBSITE ABOVE FOR AN UPDATED VERSION.
+
+
+
+
+
+
+ * * * * * * * * *
+
+prologue
+
+ * * * * * * * * *
+
+
+
+
+
+Waves.
+
+Dreams move beneath you, blind colossi revolving through unknowable patterns; but they do not break the surface, not yet or any more. You float in void between them, cold, memoryless.
+
+Not true. You are a Wayfarer, and will always remember that.
+
+But for a moment you panic, because that is all you remember; lost between dreams, for a moment you cannot even think whether you are woman or man.
+
+
+
+You are incapable of anything but the choice: are you male or female?
+
+&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="2">NO</temporary>
+  </item>
+</Skein>
